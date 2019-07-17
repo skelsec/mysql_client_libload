@@ -1,2 +1,2 @@
 # mysql_client_libload
-PoC for 
+PoC for loading arbitrary shared libraries to mysql-client.
